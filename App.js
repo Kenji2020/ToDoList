@@ -112,13 +112,6 @@ const styles = StyleSheet.create({
         width: 350,
         alignItems: "center"
     },
-    fbLoginButton: {
-        height: 45,
-        marginTop: 10,
-        backgroundColor: 'transparent',
-    },   titleStyle: {
-        fontSize: 20,
-        fontWeight: '800',
-    },
+   
 
 });
